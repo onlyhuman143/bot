@@ -1,6 +1,6 @@
 import os
 
-my_consumer_id = os.getenv('my_consumer_id')
+
 my_api_key = os.getenv('my_api_key')
 
 
