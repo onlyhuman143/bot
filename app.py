@@ -26,7 +26,7 @@ def demo3(bot,update):
 def demo4(bot,update):
   aio.send('fans',0)
   chat_id = bot.message.chat_id
-  bot.message.reply_text('Fans turned off')
+  bot.message.reply_text('Fans turned off')    
 
 def main(bot,update):
   a= bot.message.text
