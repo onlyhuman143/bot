@@ -1,3 +1,2 @@
-pytelegrabotapi
-gtts
-adafruit.io
+adafruit-IO
+telegram.ext
