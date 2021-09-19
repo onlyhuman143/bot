@@ -1,0 +1,3 @@
+pytelegrabotapi
+gtts
+praw
