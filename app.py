@@ -14,7 +14,7 @@ def demo1(bot,update):
   bot.message.reply_text('Lights turned on')
 
 def demo2(bot,update):
-  aio.send('bedrrom-lights',0)
+  aio.send('bedroom-lights',0)
   chat_id = bot.message.chat_id
   bot.message.reply_text('Lights turned off')
 
